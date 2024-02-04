@@ -1,4 +1,4 @@
-# guessTheNumberGame
+# Guess The Number Game
 Recursion BackendProject1 Guess the number gameの成果物です。
 
 ターミナルから実行すると、2つの数字の入力を求められます。
